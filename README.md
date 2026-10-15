@@ -35,7 +35,7 @@ Principais responsabilidades:
 
 ### Automação e IA aplicada a operações
 
-Interesse em usar automação, Python e agentes de IA para reduzir tarefas repetitivas e acelerar a resposta operacional, especialmente em ambientes monitorados com Zabbix.
+Interesse em usar automação, Python e agentes de IA para reduzir tarefas repetitivas e acelerar a resposta operacional.
 
 Áreas de estudo e desenvolvimento:
 
@@ -55,6 +55,5 @@ Interesse em usar automação, Python e agentes de IA para reduzir tarefas repet
 - Automatizar com responsabilidade: IA apoia a decisão, mas não substitui a validação humana.
 - Priorizar impacto: severidade deve considerar criticidade do ativo, exposição e efeito no negócio.
 - Melhorar continuamente: cada incidente é uma oportunidade de ajustar detecção, processo ou automação.
-**rogeriovigilato/rogeriovigilato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
