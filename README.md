@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--## Analista de SOC/NOC
+## Analista de SOC/NOC
 
 Profissional de TI com experiência em suporte, administração de sistemas Windows e Linux, redes, endpoints e atendimento a incidentes. Estudante de Cybersecurity, com foco em operações de SOC e NOC, monitoramento de infraestrutura, análise de logs e resposta a incidentes.
 
