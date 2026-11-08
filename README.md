@@ -23,18 +23,6 @@ IT & Cybersecurity professional experienced in **Windows and Linux systems admin
 [PLAN & CODE] ➔ [BUILD & SCAN] ➔ [DETECT (AI)] ➔ [RESPOND] ➔ [HARDEN] ➔ [HUNT]
 ```
 
----
-
-## 🌌 Featured Flagship Project
-
-### 🛰️ [secdevops-antigravity](https://github.com/rogeriovigilato/secdevops-antigravity) — *2-Tier Low-Token AI Agent Architecture & Galaxy Mind Radar*
-> A complete **SecDevOps, Networking/Homelab, OSINT, and Software Engineering agent ecosystem** for Google Antigravity featuring:
-> - **4-Ring Orbital Architecture (`>85%` token overhead reduction):** 11 Core Agents + 15 Core Skills preloaded in `.agents/`, paired with 67 Specialist Skills + 19 Specialist Agents loaded on-demand on Step #1.
-> - **Mandatory Auto-Triggers & Delivery Gate:** Automated skill routing, TDD enforcement, and post-code `code-reviewer` / `security-reviewer` verification gates.
-> - **Real-Time Galaxy Mind & Token Radar (`token-monitor/`):** Live orbital telemetry dashboard (`127.0.0.1:4317`) with Document Picture-in-Picture (PiP) Corner HUD and Obsidian Context Graph integration.
-
----
-
 ## 🛡️ SOC Operations & Cyber Defense
 
 Monitoring security events, analyzing telemetry, conducting initial investigations, and supporting rapid incident response — turning raw logs into actionable intelligence with documented evidence, hypotheses, and root-cause analysis.
